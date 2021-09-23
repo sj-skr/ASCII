@@ -1,0 +1,3 @@
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/bin/Release/ASCII.exe
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Release/ASCII.csproj.CoreCompileInputs.cache
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Release/ASCII.exe

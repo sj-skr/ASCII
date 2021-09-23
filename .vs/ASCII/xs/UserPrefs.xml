@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7BD324AA-628D-4910-B6FF-69E6E3C304D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASCII/Program.cs">
+    <Files>
+      <File FileName="ASCII/Program.cs" Line="35" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASCII" expanded="True">
+            <Node name="ASCII" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ASCII PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

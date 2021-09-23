@@ -1,0 +1,6 @@
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/bin/Debug/ASCII.exe
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/bin/Debug/ASCII.pdb
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Debug/ASCII.csproj.AssemblyReference.cache
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Debug/ASCII.csproj.CoreCompileInputs.cache
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Debug/ASCII.exe
+/Users/Askari/Desktop/sajjad/programming/ASCII/ASCII/obj/Debug/ASCII.pdb
